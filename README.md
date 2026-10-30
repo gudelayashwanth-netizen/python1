@@ -1,16 +1,19 @@
-Student Details
-Name: Goddanti.Yaswanth Phani Krishna
-Roll Number: CSM26000902
-Branch: CSM
-Section: 1
-Selected Test Cases
-Test case 1: ATM Transaction Sequence Simulation
-Test case 2: Student Performance Trend Analysis
-Test case 3: Smart Parking Fee Management
-Test case 4: Password Policy Validation Engine
-Test case 5: Student Email and Identifier Validation.
-Test case 6: Text Compression Using Character Runs
-Test case 7: Repeated Word and Phrase Detection
-Test case 8: Bus Passenger Occupancy Simulation
-Test case 9: Food Waste Monitoring System
-Test case 10: Campus Transport Allocation
+## Python Programming
+## Student Details
+
+- Name: Gudela.Yashwanth kumar
+- Roll Number: CSM26000906
+- Branch: CSM
+- Section: 1
+
+## Selected Test Cases
+1.ATM transaction -  ATM transaction management 
+2.Data Validity – Data Validation System.
+3.Electricity Bill – Electricity Billing Management.
+4.Food – Food Waste Management.
+5.Fuel Consumption – Fuel Consumption Monitoring.
+6.Hospital Bill – Hospital Billing Management.
+7.Smart Parking Fee – Smart Parking Management.
+8.Student Scholarship – Student Scholarship Management.
+9.Student Attendance – Student Attendance Monitoring.
+10.Traffic Rules – Traffic Violation Management.
