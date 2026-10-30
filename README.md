@@ -7,7 +7,8 @@
 - Section: 1
 
 ## Selected Test Cases
-1.ATM transaction -  ATM transaction management 
+
+1.ATM transaction : ATM transaction management 
 2.Data Validity – Data Validation System.
 3.Electricity Bill – Electricity Billing Management.
 4.Food – Food Waste Management.
