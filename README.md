@@ -1,10 +1,10 @@
 ## Python Programming
 ## Student Details
 
-- Name: Gudela.Yashwanth kumar
-- Roll Number: CSM26000906
-- Branch: CSM
-- Section: 1
+- Name : Gudela.Yashwanth kumar
+- Roll Number : CSM26000906
+- Branch : CSM
+- Section : 1
 
 ## Selected Test Cases
 
